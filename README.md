@@ -16,37 +16,7 @@ O objetivo deste projeto é fornecer um sistema simples de contagem, permitindo 
    - Verifica se todos os campos foram preenchidos antes de iniciar a contagem.
    - Se o passo for menor ou igual a zero, será considerado como 1.
 
-### EXECUTANDO O PROJETO:
-1. **Inserir os Dados:**
-   - Digite o número inicial desejado no campo "INÍCIO".
-   - Digite o número final desejado no campo "FIM".
-   - Digite o passo (intervalo) desejado no campo "PASSO".
-
-2. **Contar:**
-   - Clique no botão "CONTAR" para iniciar a contagem.
-
-## COMO USAR?
-### BAIXANDO O PROJETO:
-* Clone o repositório para o seu sistema local:
-
-```bash
-git clone https://github.com/VILHALVA/SISTEMA-DE-CONTAGEM.git
-```
-
-* Navegue até o diretório do projeto.
-
-```bash
-cd SISTEMA-DE-CONTAGEM
-```
-
-* Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip SISTEMA-DE-CONTAGEM.zip
-```
-* Abra o arquivo `CODIGO.html` em seu navegador de preferência.
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Adicionar Números:**
    - Insira um número entre 1 e 100 no campo de entrada.
    - Clique em "ADICIONAR" para adicionar o número à lista.
@@ -57,9 +27,9 @@ unzip SISTEMA-DE-CONTAGEM.zip
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [Curso de HTML e CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
-* [Curso de JavaScript](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* [Confira mais cursos](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
